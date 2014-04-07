@@ -1,4 +1,6 @@
-Bidet
+Mel Gibson's Patriot Pong Launcher
 =====
 
-Bidet is an application that we haven't thought of the purpose for but all we know is that it's gonna be called Bidet.
+MGPPL is an automatic ping pong launch that was made using an Arduino. If we had any idea how to put the actual schematics of what we used here we would. It still doesn't work and broke, but it will be finished one way or another.
+
+(add materials here)

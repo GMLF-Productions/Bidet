@@ -1,7 +1,7 @@
-Mel Gibson's Patriot Pong Launcher
+HackUMass Ping Pong Ball Shooter
 =====
 
-MGPPL is an automatic ping pong launch that was made using an Arduino. If we had any idea how to put the actual schematics of what we used here we would. It still doesn't work and broke, but it will be finished one way or another.
+An automatic ping pong launcher that was made using an Arduino for the HackUMass hackathon. If we had any idea how to put the actual schematics of what we used here we would. It still doesn't work and broke, but it will be finished one way or another.
 
 #### Materials
 + Arduino Uno
@@ -9,3 +9,9 @@ MGPPL is an automatic ping pong launch that was made using an Arduino. If we had
 + HC-SR04 ultrasonic range detector
 + 12v variable power supply
 + wood for base, metal for ramp
+
+#### Authors
++ [Nate Fuller](https://github.com/natefuller)
++ Steven Golonka
++ [Dan Laizer](https://github.com/danlaizer)
++ [Nick Monti](https://github.com/nmonti)
